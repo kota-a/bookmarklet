@@ -1,2 +1,1 @@
-const date = new Date();
-alert(date);
+const date = new Date();alert(date);
